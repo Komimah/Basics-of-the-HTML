@@ -1,0 +1,16 @@
+#Implement a list of movies currently running in a Movie theatre using <href> 
+Further, also present the showtimes of each movie running in the current week.  
+
+Source code: 
+<p> 
+<ul> 
+    <li><a href="index.html">Home</a></li> 
+    <li><a href="about-us.html">About</a></li> 
+    <li><a href="movies.html">Movies</a></li> 
+    <ul> 
+        <li><a href="The Creator">The Creator</a> - Showtimes: Mon 2pm, Wed 5pm, Fri 8pm</li> 
+        <li><a href="Cinderella">Cinderella</a> - Showtimes: Tue 3pm, Thu 6pm, Sat 9pm</li> 
+        <li><a href="movie3.html">Avatar</a> - Showtimes: Mon 4pm, Wed 7pm, Sun 8pm</li> 
+    </ul> 
+    <li><a href="contact.html">Contact</a></li> 
+</ul> </p> 
